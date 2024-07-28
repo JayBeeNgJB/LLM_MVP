@@ -1,1 +1,0 @@
-Frontend stack to be decided
