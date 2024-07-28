@@ -4,6 +4,7 @@ A MVP for a LLM Application
 # How to install 
 Requires Python 3.11 or above
 Download Python: https://www.python.org/
+
 Requires Node.js v20.2.0 or above
 Download Node.js : https://nodejs.org/en/download/package-manager
 
