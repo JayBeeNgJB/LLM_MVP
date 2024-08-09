@@ -6,7 +6,7 @@ from flask_cors import CORS
 import torch
 from huggingface_hub import login
 
-login(token = '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')
+
 
 
 app = Flask(_name_)
